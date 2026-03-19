@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repo is archived, please refer to https://github.com/fasrc/ood-jupyter for our current equivalent.
+> 
+
 # Jupyter Notebook for OOD Deployment at FAS-RC
 
 This app has been derived by the template kindly provided by the OSC OpenOnDemand
